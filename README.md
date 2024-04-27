@@ -19,9 +19,9 @@
 
 - 💬 **Ask me about** Passionate about Exploring AI , Machine Learning, Deep Learning, Data Science. Previously Interned at Vision Telecom (Pvt.) Ltd. Currently pursuing a degree in Computer Science at LCWU, I am deeply interested in AI, ML , Data Science & DL. I recently developed a Streamlit app for sentiment analysis in Python, integrating API keys for ChatGPT projects. Proficient in web development technologies including HTML, CSS, JS, PHP, and MySQL, I have created a variety of projects spanning from full-fledged e-commerce websites to dynamic CRUD applications. Continuously seeking to expand my knowledge and expertise in the realm of technology and AI.
 
-- 📄 **Know about my experiences** <a href="Resume/Shifa Zahra Resume.pdf"> Shifa Resume
-- 🔭 **My Portfolio Website** <a href="https://shifaportfolio.netlify.app/">  My Portfolio Website
-- 🔭 **All of my projects are avaialble at**  <a href="https://www.linkedin.com/in/shifa-zahra/"> My Linkedin Profile
+- 📄 **Know about my experiences** <a href="Resume/Shifa Zahra Resume.pdf"> My Resume
+- 🔭 **My Portfolio Website** <a href="https://shifaportfolio.netlify.app/">  Portfolio
+- 🔭 **All of my projects are avaialble at**  <a href="https://www.linkedin.com/in/shifa-zahra/"> Linkedin Profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
