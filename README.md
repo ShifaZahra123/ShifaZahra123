@@ -1,4 +1,4 @@
-[![MaterHead](https://img.etimg.com/thumb/msid-99383513,width-1000,height-500,imgsize-71074,resizemode-75/artificial-intelligence.jpg)](https://github.com/ShifaZahra/)
+[![MaterHead](https://img.etimg.com/thumb/msid-99383513,width-1000,height-700,imgsize-71074,resizemode-75/artificial-intelligence.jpg)](https://github.com/ShifaZahra/)
 <h1 align="center">Hi 👋, I'm Shifa Zahra</h1>
 <h3 align="center">Exploring AI, Data Science, Machine Learning, Deep Learning | Web Developer | Student @Lahore College for Women University | BSCS '25</h3>
  <!-- how to reach me -->
