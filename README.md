@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **Chatbots , AI & ML projects**
 - 🔭 I’m currently learning **Artificial Intelligence , Machine Learning , Deep Learning & Data Science**
 
-- 💬 **Ask me about** Passionate about Exploring AI , Machine Learning, Deep Learning, Data Science. Previously Interned at Vision Telecom (Pvt.) Ltd. Currently pursuing a degree in Computer Science at LCWU, I am deeply interested in AI, ML , Data Science & DL. I recently developed a Streamlit app for sentiment analysis in Python, integrating API keys for ChatGPT projects. Proficient in web development technologies including HTML, CSS, JS, PHP, and MySQL, I have created a variety of projects spanning from full-fledged e-commerce websites to dynamic CRUD applications. Continuously seeking to expand my knowledge and expertise in the realm of technology and AI.
+- 💬 **Ask me about** Passionate about Exploring AI , Machine Learning, Deep Learning, Data Science. Previously Interned at Vision Telecom (Pvt.) Ltd. Currently pursuing a degree in Computer Science at LCWU. Proficient in web development technologies including HTML, CSS, JS, PHP, and MySQLi. I have created a variety of projects spanning from full-fledged e-commerce websites to dynamic CRUD applications. Continuously seeking to expand my knowledge and expertise in the realm of technology and AI.
 
 - 📄 **Know about my experiences** <a href="Resume/Shifa Zahra Resume.pdf"> My Resume
 - 🔭 **My Portfolio Website** <a href="https://shifaportfolio.netlify.app/">  Portfolio
