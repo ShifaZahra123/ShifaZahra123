@@ -21,12 +21,12 @@
 
 - 📄 **Know about my experiences** <a href="https://drive.google.com/drive/folders/1IEzZb0i2Dodxl9ilT4lzLai7QF2IMnAN?usp=sharing"> My Resume
 - 🔭 **My Portfolio Website** <a href="https://shifaportfolio.netlify.app/">  Portfolio
-- 🔭 **All of my projects are avaialble at**  <a href="https://www.linkedin.com/in/shifa-zahra/"> Linkedin Profile
+- 🔭 **All of my projects are avaialble at**  <a href="https://github.com/ShifaZahra123/"> GitHub Profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shifa-zahra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shifa-zahra/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shifazahra256/?igsh=mxc0mmhrcw0xmjlkmq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shifazahra256/?igsh=mxc0mmhrcw0xmjlkmq%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shifa-zahra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shifa-zahra/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shifazahra256/?igsh=mxc0mmhrcw0xmjlkmq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shifazahra256/?igsh=mxc0mmhrcw0xmjlkmq%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
